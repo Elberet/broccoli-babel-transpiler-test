@@ -1,0 +1,19 @@
+{
+  "name": "broccoli-babel-transpiler-test",
+  "version": "0.0.0",
+  "description": "broccoli-babel-transpiler-test",
+  "author": "Jens Maier <jens@elberet.de>",
+  "license": "CC0-1.0",
+  "main": "index.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "broccoli-babel-transpiler": "^7.2.0",
+    "broccoli-test-helper": "^2.0.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}
